@@ -2,8 +2,8 @@ cask "jamly" do
   arch arm: "arm64", intel: "x86_64"
 
   version "0.2.2"
-  sha256 arm:   "5c1aa6f9b2efa27cdb6be0eebd8c2db7e90a04eef99349c5a2119654d48d7c08",
-         intel: "19600a6ede8267e6be5ac43de69a9a3c26b830908490907a39fd100337e0bffd"
+  sha256 arm:   "bd24af52daa664bac06fff633310ce14aaf8330e24f0451942eeedf595d56cf1",
+         intel: "630f7c7e43f52e8a22280f767e56502ad1e81cba3a46aae0f3f2e27c0c4bed0b"
 
   url "https://github.com/kurtisnotcurtis/jamly/releases/download/v#{version}/Jamly-#{version}-darwin-#{arch}.zip"
   name "Jamly"
