@@ -1,6 +1,6 @@
 cask "jamly" do
-  version "0.4.1"
-  sha256 "cba58d5d23d8f9b60e25b04e3a92c9664be2a84a90ce18c1b035c5985c28f81e"
+  version "0.5.0"
+  sha256 "c83af9c1e08b231fad89ca53b9b1cd83043f5ab935a25bc08ba180855a8a69ff"
 
   url "https://github.com/kurtisnotcurtis/jamly/releases/download/v#{version}/Jamly-#{version}-darwin-arm64.zip"
   name "Jamly"
